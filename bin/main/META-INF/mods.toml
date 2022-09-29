@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All rights reserved"
+[[mods]]
+modId="nakmod"
+version="${file.jarVersion}"
+displayName="NAKMod"
+logoFile="examplemod.png"
+credits="Me"
+authors="Naklahn"
+description='''
+Naklahns mod
+'''
+
+[[dependencies.nakmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+    
+[[dependencies.nakmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="BOTH"

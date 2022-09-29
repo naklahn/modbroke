@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		"nakmod:example_block",
+	    "nakmod:crystal_ore"
+	]
+}

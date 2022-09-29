@@ -1,0 +1,7 @@
+{
+	"variants":{
+		"":{
+			"model": "nakmod:block/example_block"
+		}
+	}
+}
